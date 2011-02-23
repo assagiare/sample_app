@@ -1,3 +1,5 @@
+The following document shall be replaced by explaination of this app
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
